@@ -14,7 +14,6 @@
 	void insertAtLast(node_type** last, INT32U data);
 	void deleteAtFirst(node_type** first);
 	void deleteAtLast(node_type** last);
-	void printLinkedList(node_type* list );
-	
+	void printLinkedList(node_type* list );	
 	
 #endif
